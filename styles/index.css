@@ -18,3 +18,12 @@ body {
     height: 70vh;
     overflow: hidden;
 }
+
+.search-btn {
+    width: 175px;
+    justify-content: space-between;
+}
+
+.fa-magnifying-glass {
+    margin-right: 10px;
+}
